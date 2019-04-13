@@ -1,0 +1,4 @@
+front/node_modules
+front/.next
+back/nachito-back/vendor/
+back/nachito-back/logs
